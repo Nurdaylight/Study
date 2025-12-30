@@ -1,5 +1,5 @@
 @echo off
 cd C:\Users\user\notebooks
 git add .
-git commit -m "Auto-update notebooks"
+git commit -m "Study updates"
 git push origin main
